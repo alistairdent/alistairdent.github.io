@@ -1,3 +1,8 @@
+---
+layout: post
+title: "The future of artificial intelligence lies in bots"
+date: 2016-08-01
+---
 A real life assistant is expected to be a jack-of-all-trades. Whether finding a room for my meeting (and knowing how important the other meetings are to determine who else I can kick out), or booking me a cab back from my event (and knowing that I’d rather leave early to avoid the rush than see the whole thing but have to hang around afterwards); genuine intelligence is absolutely required, as is flexibility and persistence.
 Which is why digital assistants have been unmitigated failures. Siri, Google Now, Cortana and Alexa all offer fantastic features. Predictive search makes me feel like I’m living in the future. But it’s hard not to feel like we’ve been sold an over-reaching dream: a digital assistant that can look after my life’s admin for me.
 Digital assistants have been unmitigated failures.
