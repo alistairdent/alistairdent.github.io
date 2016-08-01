@@ -8,13 +8,13 @@ A real life assistant is expected to be a jack-of-all-trades. Whether finding a 
 
 Which is why digital assistants have been unmitigated failures. Siri, Google Now, Cortana and Alexa all offer fantastic features. Predictive search makes me feel like I’m living in the future. But it’s hard not to feel like we’ve been sold an over-reaching dream: a digital assistant that can look after my life’s admin for me.
 
-Digital assistants have been unmitigated failures.
+> Digital assistants have been unmitigated failures.
 
 Artificial intelligences are improving all the time, and experienced tech entrepreneurs (including Bill Gates and Elon Musk) are afraid the robots will take over and rule us pitiful humans with an iron fist. So far it’s clear we have nothing to worry about. Despite hype around “machine learning” and “neural networks”, the best AI can offer right now is limited success at completing tasks. DeepMind can win at Go, a game that requires humans to understand strategy and nuance, but DeepMind doesn’t know what strategy or nuance are. DeepMind analysed thousands (or millions) of games, understood what types of moves lead to wins, and extrapolated to be able to win. It wasn’t learning by rote, but nor was it exactly self-aware. Instead of proving that computers are capable of intuition, we proved that the game didn’t need intuition as much as we thought it did.
 
 In most people’s lives Google Now is the closest we get to interacting with AI. It uses pattern recognition to understand what features of a news story are in common between things I seem to be interested in. It can tell that I am more likely to read stories that are about politics or technology than about celebrities or personal finance. It knows that I’m more likely to read it if it’s on the guardian than on the bbc. It knows that I read a lot about football, but only premier league. That kind of pattern recognition makes it extremely effective at suggesting new stories for me to read. By then layering on the overall popularity of those stories it can make recommendations not disimilar to a human’s curation.
 
-Google Now knows that I support Aston Villa, but not how sad I am about that.
+> Google Now knows that I support Aston Villa, but not how sad I am about that.
 
 To any eye, though, it’s obviously not human curation. It still doesn’t recognise what makes an article interesting, well written, shocking or thought provoking. It can recognise when the article resonates with other people and contains topics I read, but it couldn’t tell me why.
 
@@ -28,7 +28,7 @@ If I build model B and ask you to build model A you’ll fail. The very best sys
 
 What this means is that it matters how we reach our output. We can’t try to mimic human curation and activity via pattern recognition and expect it to ever be as good as the real thing. This is why our digital assistants are so underwhelming: they’re great at some tasks, but by setting expectations that they can behave like a human we’ll always be disappointed.
 
-It matters how we reach our output.
+> It matters how we reach our output.
 
 The companies who have made digital assistants have made them to be jacks-of-all-trades, and this is a dead end for technology until we can actually model intelligence, rather than mimic it. Some companies are now helping lead a charge away from the digital assistant model, towards bots.
 
