@@ -47,7 +47,7 @@
 					font-weight: light;
 				}
 				
-				header {
+				.headerdiv {
 					margin: 0 auto;
 					max-width: 800px;
 					background-color: #1DA846;
@@ -57,7 +57,7 @@
 					font-weight: bold;
 					color: #ffffff;
 					text-align: right;
-					padding: 0.5rem 0;
+					padding: 0.5rem;
 				}
 				
 				#headerlink {
@@ -67,11 +67,13 @@
 		</head>
 		
 		<body>
-			<a id="headerlink" href="/">
-				<header>
-					{{ site.name }}
-				</header>
-			</a>
+			<div class="headerdiv">
+				<a id="headerlink" href="/">
+					<header>
+						{{ site.name }}
+					</header>
+				</a>
+			</div>
 			
 			<div class="container">
 				{{ content }}
