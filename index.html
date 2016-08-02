@@ -5,8 +5,9 @@ title: future.style
 
 	{% for post in site.posts %}
 		<a class="postcard" href="{{ post.url }}">
-			<img-amp src="{{ post.hero }}"></img-amp>
-			{{ post.title }}
+			<img-amp src="{{ post.hero }}" width="800" height="450" layout="responsive"></img-amp>
+			<h2>{{ post.title }}</h2>
+			<p>{{ post.excerpt }}</p>
 		</a>
 	{% endfor %}
 
