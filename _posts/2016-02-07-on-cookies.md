@@ -2,7 +2,7 @@
 layout: post
 title: "On cookies"
 date: 2016-02-07
-hero: /images/cookies.jpg
+hero: /images/Cookies.jpg
 excerpt: "What are cookies, how do they work, and what do we use them for?"
 ---
 
