@@ -10,11 +10,11 @@ There are a variety of reasons that cookies don’t persist for very long: user 
 
 The technologies that offer ways around this problem are either unreliable or continually caught in PR and legal challenges, so the main approach is to focus retargeting on strategies that prioritise recency.
 
-##Introduction
+## Introduction
 
 If you’ve always wanted to know more about cookies and how they impact your digital campaigns, read on. By the end of this article I will have talked about what cookies are and how they work, what we use them for and the impact that has on how relevant they are, and the prevalence and persistence of cookies.
 
-##What is a cookie?
+## What is a cookie?
 
 A cookie is actually an incredibly simple piece of technology: it’s a single piece of text stored by a web browser, set by (and readable by) a single web domain. That’s really all: just a single piece of text. What a clever web domain can do with that text is far more interesting.
 
@@ -24,13 +24,13 @@ A modern cookie might contain lots of key value pairs, all separated by semicolo
 
 Each cookie comes with a persistence: a note to the web browser about how long it should last. Typically a session (it gets deleted when the browser is closed), a fixed number of days, a fixed expiration date, or indeterminate (it will last until the web browser’s built in expiration date, typically around 18 months).
 
-##What do we use them for?
+## What do we use them for?
 
 There are a lot of very mechanical uses for cookies that keep websites running. You wouldn’t want to login on every page you open, so a session cookie will store that you’re logged in. I might want to serve first time visitors a different version of my homepage: the cookie’s presence lets me know you’ve visited before.
 
 A cookie also lets me do a bunch of marketing by understanding who a user is in a persistent way: Google Analytics will utilise my cookies to track users across multiple visits so that I can understand frequency, recency, etc.
 
-##What about retargeting?
+## What about retargeting?
 
 Remember: a cookie can only be read by the web domain that set it in the first place. That means that if I record a value during your visit to my website another website cannot use that cookie to know who you are, even to serve advertising on my behalf. So retargeting needs to use a different mechanism: third party cookies.
 
@@ -46,7 +46,7 @@ On a single site, this isn’t really a big deal. The major shift happens when o
 
 The biggest players (Google, Facebook, etc) have very strict policies about what they track and who gets access: nobody. An advertiser will never see that data. An advertiser will buy access to an “audience”, and the ad company will determine whether an individual is in that audience based on the contents of their cookie. For retargeting, the audience might be “people who visited a page on my site in the last seven days”.
 
-##Cookie persistence
+## Cookie persistence
 
 That qualifier is what makes this interesting: in the last seven days. Advertisers use different strategies with different recency requirements:
 
@@ -56,20 +56,20 @@ If a user visited the site but didn’t get as far as any product pages, then it
 
 If a user bought a particularly expensive piece of furniture, then maybe they should be advertised to for a year or more, to distinguish that customer from somebody who won’t buy at that high price point. An advertiser might decide to pay more for that user in future campaigns.
 
->Each of these has a different recency requirement (and acceptable maximum frequency), but will also have a different level of effectiveness for one key reason: cookies don’t last forever.
+> Each of these has a different recency requirement (and acceptable maximum frequency), but will also have a different level of effectiveness for one key reason: cookies don’t last forever.
 
 Cookies are an imperfect source of understanding users:
--Some browsers (e.g. mobile safari) simply don’t store third party cookies at all.
--Users move between devices a lot, and cookies are one-device, one-browser.
--People reset their machines, move their user folders, uninstall and reinstall browsers, and do other activities that don’t carry cookies with them.
--On desktops, corporate IT policies might affect how long cookies are stored.
--On home machines, households often share devices between different users.
--Private browsing or do-not-track requests won’t store any cookies beyond the session.
--Computer cleanup tools remove cookies, sometimes on a regular schedule.
+- Some browsers (e.g. mobile safari) simply don’t store third party cookies at all.
+- Users move between devices a lot, and cookies are one-device, one-browser.
+- People reset their machines, move their user folders, uninstall and reinstall browsers, and do other activities that don’t carry cookies with them.
+- On desktops, corporate IT policies might affect how long cookies are stored.
+- On home machines, households often share devices between different users.
+- Private browsing or do-not-track requests won’t store any cookies beyond the session.
+- Computer cleanup tools remove cookies, sometimes on a regular schedule.
 
 What we see as a result is that cookies tend to last for different amounts of time, and a strategy targeting users in the first day or two after a cookie being set is more likely to have a big audience to target than a strategy targeting users 12 months later.
 
-##Cookie deletion rates
+## Cookie deletion rates
 
 Any of the above actions can be classified as a cookie deletion for our purposes, but it’s hard to measure just how often cookies are deleted. There is no “view of the truth” to compare stats against, so we rely on surveys and panels. Panels always underestimate how often cookies are deleted, because they focus on proactive deletions, excluding the other ways cookies fail to persist.
 
@@ -83,7 +83,7 @@ By a month, assume 30–40% of cookie data is gone.
 
 After more than a few months, the cookie pool is so small as to be impossible to target.
 
-##Conclusion
+## Conclusion
 
 Any technology that relies on cookies will suffer decreasing accuracy and scale over time. If our audiences are continually refreshed then our most recent data is still usable, but retargeting strategies that need data beyond a month or two become nearly worthless.
 
