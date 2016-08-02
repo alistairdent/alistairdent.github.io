@@ -3,8 +3,19 @@ layout: default
 title: future.style
 ---
 
-	<ul class="posts">
-		{% for post in site.posts %}
-			<li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-		{% endfor %}
-	</ul>
+	{% for post in site.posts %}
+		<a class="postcard" href="{{ post.url }}">
+			<img-amp src="{{ post.hero }}"></img-amp>
+			{{ post.title }}
+		</a>
+	{% endfor %}
+
+	
+			<!--
+			<div class="headerdiv">
+				<a class="headerlink" href="/">
+					{{ site.name }}
+				</a>
+			</div>
+			-->
+			
