@@ -1,7 +1,7 @@
 ---
 title: On Cookies
 date: 2016-02-07
-hero:
+hero: /images/cookies.jpg
 excerpt: What are cookies, how do they work, and what do we use them for?
 ---
 There are a variety of reasons that cookies don’t persist for very long: user deletion, device resets, corporate policies, cleanup tools and more. 35% of users delete cookies once per month, so cookie pools that aren’t refreshed shrink down from nearly complete in the first few days, to 65% after a month, to less than 10% after six months.
