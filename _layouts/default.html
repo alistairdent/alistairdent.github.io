@@ -45,7 +45,7 @@
 					font-weight: light;
 				}
 				
-				header {
+				.header {
 					margin: 0 auto;
 					max-width: 40rem;
 					background-color: #1DA846;
@@ -56,15 +56,14 @@
 					font-weight: bold;
 					color: #ffffff;
 					text-align: right;
+					text-decoration: none;
 				}
     			</style>
 		</head>
 		
 		<body>
-			<a href="/">
-				<header>
-					{{ site.name }}
-				</header>
+			<a id="header" href="/">
+				{{ site.name }}
 			</a>
 			
 			<div class="container">
