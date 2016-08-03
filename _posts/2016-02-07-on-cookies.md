@@ -59,13 +59,13 @@ If a user bought a particularly expensive piece of furniture, then maybe they sh
 > Each of these has a different recency requirement (and acceptable maximum frequency), but will also have a different level of effectiveness for one key reason: cookies don’t last forever.
 
 Cookies are an imperfect source of understanding users:
-- Some browsers (e.g. mobile safari) simply don’t store third party cookies at all.
-- Users move between devices a lot, and cookies are one-device, one-browser.
-- People reset their machines, move their user folders, uninstall and reinstall browsers, and do other activities that don’t carry cookies with them.
-- On desktops, corporate IT policies might affect how long cookies are stored.
-- On home machines, households often share devices between different users.
-- Private browsing or do-not-track requests won’t store any cookies beyond the session.
-- Computer cleanup tools remove cookies, sometimes on a regular schedule.
+* Some browsers (e.g. mobile safari) simply don’t store third party cookies at all.
+* Users move between devices a lot, and cookies are one-device, one-browser.
+* People reset their machines, move their user folders, uninstall and reinstall browsers, and do other activities that don’t carry cookies with them.
+* On desktops, corporate IT policies might affect how long cookies are stored.
+* On home machines, households often share devices between different users.
+* Private browsing or do-not-track requests won’t store any cookies beyond the session.
+* Computer cleanup tools remove cookies, sometimes on a regular schedule.
 
 What we see as a result is that cookies tend to last for different amounts of time, and a strategy targeting users in the first day or two after a cookie being set is more likely to have a big audience to target than a strategy targeting users 12 months later.
 
