@@ -59,6 +59,7 @@ If a user bought a particularly expensive piece of furniture, then maybe they sh
 > Each of these has a different recency requirement (and acceptable maximum frequency), but will also have a different level of effectiveness for one key reason: cookies don’t last forever.
 
 Cookies are an imperfect source of understanding users:
+
 * Some browsers (e.g. mobile safari) simply don’t store third party cookies at all.
 * Users move between devices a lot, and cookies are one-device, one-browser.
 * People reset their machines, move their user folders, uninstall and reinstall browsers, and do other activities that don’t carry cookies with them.
