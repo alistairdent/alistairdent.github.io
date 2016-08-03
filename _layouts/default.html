@@ -95,24 +95,6 @@
 					color: #555;
 				}
     			</style>
-    			
-    			{% if page.layout=="post" *}
-    				<script type="application/ld+json">
-					  {
-						    "@context": "http://schema.org",
-						    "@type": "NewsArticle",
-						    "mainEntityOfPage": "{{ site.url }}{{ page.url }}",
-						    "headline": "{{ page.title }}",
-						    "datePublished": "{{ page.date }}",
-						    "description": "{{ page.excerpt }}",
-						    "author": {
-							      "@type": "Person",
-							      "name": "Alistair Dent"
-						    },
-					  }
-				</script>
-    			{% endif %}
-    			
 		</head>
 		
 		<body>
