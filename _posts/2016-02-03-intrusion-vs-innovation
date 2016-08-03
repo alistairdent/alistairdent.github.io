@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Intrustion vs innovation
-date: YYYY-MM-DD
-hero: /images/*.jpg [Crop to 800 x 450 and compress at 50 quality]
-excerpt: X
+date: 2016-02-03
+hero: /images/binoculars.jpg
+excerpt: How do we reconcile the fact that peope don't like their data being shared, but openly publish it on the internet?
 ---
 
-How do we reconcile the fact that people don’t like their data being shared, but openly publish it on the internet? How can we ensure that we’re being explicit about how we’re using a customer’s data, without scaring them with what we’re going to do with it, all within a sentence or two so that we’re being both clear and concise? What do we in the industry need to do to make sure that we’re not pushing the boundaries of trust (and regulator panic) but we’re delivering a digital experience for consumers that is more relevant and less spammy?
+How can we ensure that we’re being explicit about how we’re using a customer’s data, without scaring them with what we’re going to do with it, all within a sentence or two so that we’re being both clear and concise? What do we in the industry need to do to make sure that we’re not pushing the boundaries of trust (and regulator panic) but we’re delivering a digital experience for consumers that is more relevant and less spammy?
 
 It’s clear that users are uncomfortable with advertisers having access to their data. When surveyed on the topic, almost everybody feels uncomfortable at advertisers using browsing history to target ads. These surveys rarely educate the participants first about what “access” means in this situation. Advertisers don’t get visibility over a person and their behaviour, they get the option to filter ads to only people who match that criteria. It’s possible to implicitly assume “if they came to my site from ad A which was targeting people reading about skiing, then this person was reading about skiing,” but it’s not possible for an advertiser to approach a media owner and ask them “Please give me information on everybody interested in skiing.” It’s a subtle difference, but an important one.
 
